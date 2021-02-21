@@ -7,7 +7,7 @@ It is time to start a new series of meet-ups for 2021. Here is a first draft of 
 *General topics in R*  
 
 - Regular Expressions in R.  
-    + Speaker: Barbara's friend.  :heavy_check_mark:
+    + Speaker: [Tessa Pronk](https://www.kwrwater.nl/experts-expertises/experts/tessa-pronk/) :question:
     + First week of March :question:
 - Blogdown. 
 
