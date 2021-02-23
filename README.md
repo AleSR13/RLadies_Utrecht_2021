@@ -27,3 +27,7 @@ It is time to start a new series of meet-ups for 2021. Here is a first draft of 
 
 - Tips to learn python for R-users.  
 - Combining R with other languages (Python, SQL, CSS, etc.).  
+
+*Careers in R*
+
+- Careers with R
